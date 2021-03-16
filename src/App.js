@@ -1,24 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { Button } from 'react-bootstrap';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
+import HomePage from './pages/home';
+import backgroundImage from './background.png';
+import PokemonList from './components/pokemon/PokemonList';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Router>
+    <div className="App" style={{ background: `url(${backgroundImage})`}}>
+      <HomePage />
     </div>
+    </Router>
   );
 }
 
