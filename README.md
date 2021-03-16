@@ -19,7 +19,7 @@ Ao decorrer do desenvolvimendo desta Pokedéx, me senti desafiado com muitas coi
 
 ## Iniciando o Projeto
 
-No painel de comando, você irá inserir a seguinte linha de código:
+Após fazer o download do projeto, no painel de comando, você irá inserir a seguinte linha de código:
 
 ### `npm start`
 
