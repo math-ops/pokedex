@@ -21,6 +21,6 @@ Essa build possui as seguintes funcionalidades:
 
 No painel de comando, você irá inserir a seguinte linha de código:
 
-###`npm start`
+### `npm start`
 
-A aplicação irá iniciar a aplicação no modo de desenvolvedor no seguinte (link)[http://localhost:3000]
+A aplicação irá iniciar a aplicação no modo de desenvolvedor no seguinte http://localhost:3000
