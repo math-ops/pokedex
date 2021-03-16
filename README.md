@@ -6,7 +6,7 @@ Desde o dia que eu aceitei esse teste, sabia que seria um grande desafio. E real
 
 Ao decorrer do desenvolvimendo desta Pokedéx, me senti desafiado com muitas coisas, e a maior delas foi implementar uma API, coisa que nunca antes havia trabalhado, logo após isso o ReactJs que apesar de já ter feito pequenos projetos simples com ele, esse claramente foi um dos mais complicados a se desenvolver no meu ponto de vista.
 
-Essa build possui as seguintes funcionalidades:
+# Essa build possui as seguintes funcionalidades:
 ### `Sistema de Busca de Pokémons por nome e por ID`
 ### `Listagem de Pokémons de todas as gerações`
 ### `Listagem de caracteristicas de cada Pokémon`
