@@ -23,4 +23,4 @@ Após fazer o download do projeto, no painel de comando, você irá inserir a se
 
 ### `npm start`
 
-A aplicação irá iniciar a aplicação no modo de desenvolvedor no seguinte http://localhost:3000
+A aplicação irá iniciar a aplicação no modo de desenvolvedor no seguinte link http://localhost:3000
